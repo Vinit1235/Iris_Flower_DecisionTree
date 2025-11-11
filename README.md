@@ -93,7 +93,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-[Vinit Vijay Badiger] - [GitHub Profile](https://github.com/<your-username>)
+Vinit Vijay Badiger - [GitHub Profile](https://github.com/<your-username>)
 
 ## 🙏 Acknowledgments
 
@@ -103,4 +103,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ⭐ Star this repository if you find it helpful!
+
 
